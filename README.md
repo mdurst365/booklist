@@ -6,3 +6,5 @@ This is a book list created with HTML/ CSS Bootstrap / Vanilla JS. It uses local
 https://www.youtube.com/watch?v=JaMCxVWtW58&ab_channel=TraversyMedia
 
 # Screencap of Project
+![Screenshot of Booklist](https://raw.githubusercontent.com/mdurst365/booklist/main/booklist.JPG)
+
